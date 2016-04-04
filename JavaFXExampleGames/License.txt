@@ -1,0 +1,7 @@
+Note the current examples are part of a guide and can be downloaded from the github link(below).
+
+------------------------------------------------------------------------------------------------
+For educational uses only.
+------------------------------------------------------------------------------------------------
+https://github.com/tutsplus/Introduction-to-JavaFX-for-Game-Development
+http://gamedevelopment.tutsplus.com/tutorials/introduction-to-javafx-for-game-development--cms-23835
